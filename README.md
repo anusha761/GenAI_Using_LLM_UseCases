@@ -1,5 +1,5 @@
 # Generative AI With LLMs - Performing Dialog Summarization
-> This project focuses on leveraging Generative AI capabilities, using 2 approaches, prompt engineering and finetuning on Flan T5 Large Language Model to perform dialog summarization.
+> This project focuses on leveraging Generative AI capabilities, using 2 approaches, prompt engineering and finetuning on Flan T5 Large Language Model to perform dialog summarization. Dialog summarization has many realtime applications. This can be used for summarizing IT support desk and call center conversations, transcripts of educational tutorial videos, legal transcriptions, meeting conference summary etc.
 
 
 ## Table of Contents
